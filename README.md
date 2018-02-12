@@ -23,17 +23,16 @@ As a user,
 So that I can save a new website that I regularly visit,
 I would like to add a new link to the bookmark manager
 
-
 As a user,
 So that I can delete a website that I no longer visit regularly,
 I would like to remove a link from the bookmark manager
 
 As a user,
-So that I can amend the details of a website I visit regularly
+So that I can amend the details of a website I visit regularly,
 I would like to update a link already added to the bookmark manager
 
 As a user,
-So that I can easily manage different links
+So that I can easily manage different links,
 I would like to tag links into different categories
 
 As a user,
