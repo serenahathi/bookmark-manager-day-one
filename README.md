@@ -21,7 +21,7 @@ I would like to see a list of saved links
 
 As a user,
 So that I can save a new website that I regularly visit,
-I would like to add a new link to the bookmark manager
+I would like to add the site\'s address and title to the bookmark manager
 
 As a user,
 So that I can delete a website that I no longer visit regularly,
